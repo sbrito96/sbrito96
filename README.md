@@ -15,6 +15,7 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 # 👨‍💻 Projects:
 
 - [Investigation Failed SSH Logins with Splunk](https://github.com/sbrito96/investigation-failed-SSH-logins-Splunk)
+- [Automation IP Allow List Updates with Python](https://github.com/sbrito96/automation-ip-list-updates-python)
 - [Applying Filters to SQL Queries](https://github.com/sbrito96/filter-SQL-queries)
 - [File Permissions in Linux](https://github.com/sbrito96/file-permissions-linux)
 - [Phishing Investigation and Mitigation](https://github.com/sbrito96/phishing-investigation)
@@ -24,11 +25,25 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 # 📜 Certifications
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/9a957a70-64d8-4833-9ba7-08ba0ab2badc)
-- ISC2 Introduction to Cibersecurity
+- [ISC2 Certified in Cibersecurity](https://www.isc2.org/certifications/cc)
 
 <b> Currently enrolled in: </b>
 
 - [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner)
+- [Cisco Ethical Hacking](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ethical-hacker/index.html)
+
+# 📜 Certifications
+
+### ✅ Certificaciones obtenidas:
+
+[<img src="https://images.credly.com/images/0c9f4b7c-5b91-4c37-a1b5-bc062cb62c8b/image.png" width="120px">](https://www.credly.com/badges/9a957a70-64d8-4833-9ba7-08ba0ab2badc)
+[<img src="https://www.isc2.org/-/media/Images/Certifications/CC-Badge.ashx" width="120px">](https://www.isc2.org/certifications/cc)
+
+### 📌 Actualmente en progreso:
+
+[<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.14fa85585a81e586c157cdb6fa1aad5f10361817.png" width="120px">](https://aws.amazon.com/certification/certified-cloud-practitioner)
+[<img src="https://www.cisco.com/content/dam/cisco-public/brand-assets/logos/cisco-logo-blue.svg" width="120px">](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ethical-hacker/index.html)
+
 
 
 <!-- Proudly created with GPRM (
