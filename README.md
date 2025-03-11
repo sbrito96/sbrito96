@@ -28,6 +28,7 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/9a957a70-64d8-4833-9ba7-08ba0ab2badc)
 - [IT Specialist Cybersecurity](https://www.credly.com/earner/earned/badge/b1142cc2-8dd7-4b40-b78a-2d5c2b8987b1)
+- Cisco Certified Support Technician Networking
 - [ISC2 Certified in Cibersecurity](https://www.isc2.org/certifications/cc)
 
 ### 📌 In progress:
