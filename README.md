@@ -22,19 +22,23 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 - [Brute-Force Attack Simulation](https://github.com/sbrito96/brute-force-attack)
 
 
-# 📜 Certifications
+# 📜 Certifications  
 
 ### ✅ Completed:
+- ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)   
 
-- [Google Cybersecurity Professional](https://www.credly.com/badges/9a957a70-64d8-4833-9ba7-08ba0ab2badc/public_url)
-- [IT Specialist Cybersecurity](https://www.credly.com/badges/b1142cc2-8dd7-4b40-b78a-2d5c2b8987b1/public_url)
-- [Cisco Certified Support Technician Networking](https://www.credly.com/badges/35c46a26-a2e2-4b92-b272-e72e07d7b510/public_url)
-- [ISC2 Certified in Cibersecurity](https://www.isc2.org/certifications/cc)
+- ![ISC2 Certified](https://img.shields.io/badge/ISC2_Certified_CC-00A19A?style=for-the-badge&logo=isc2&logoColor=white)   
 
-### 📌 In progress:
+- ![Cisco Networking](https://img.shields.io/badge/Cisco_Certified_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)   
 
-- [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner)
-- [Cisco Ethical Hacking](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/ethical-hacker/index.html)
+- ![IT Specialist Cybersecurity](https://img.shields.io/badge/IT_Specialist_Cybersecurity-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white)  
+
+  [Check all my certificates here](https://www.credly.com/users/samuel-brito.0d47190d)  
+
+### 📌 Currently Pursuing:
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+- ![Cisco Ethical Hacking](https://img.shields.io/badge/Cisco_Ethical_Hacking-D42029?style=for-the-badge&logo=cisco&logoColor=white) 
 
 
 
