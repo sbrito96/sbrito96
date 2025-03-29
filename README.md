@@ -15,6 +15,7 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 # 👨‍💻 Projects:
 
 - [Investigation Failed SSH Logins with Splunk](https://github.com/sbrito96/investigation-failed-SSH-logins-Splunk)
+- [Vulnerability Assessment Report Using NIST SP 800-30 Rev 1 Framework](https://github.com/sbrito96/vulnerability-assesment-NIST-SP-800-30/blob/main/README.md)
 - [Automation IP Allow List Updates with Python](https://github.com/sbrito96/automation-ip-list-updates-python)
 - [Applying Filters to SQL Queries](https://github.com/sbrito96/filter-SQL-queries)
 - [File Permissions in Linux](https://github.com/sbrito96/file-permissions-linux)
