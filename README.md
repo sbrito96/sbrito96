@@ -29,6 +29,8 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 
 - ![ISC2 Certified](https://img.shields.io/badge/ISC2_Certified_CC-00A19A?style=for-the-badge&logo=isc2&logoColor=white)   
 
+- ![Cisco Certified Support Technician Cybersecurity](https://img.shields.io/badge/Cisco%20CCST%20Cybersecurity-0563BB?style=for-the-badge&logo=cisco&logoColor=white)
+
 - ![Cisco Networking](https://img.shields.io/badge/Cisco_Certified_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)   
 
 - ![IT Specialist Cybersecurity](https://img.shields.io/badge/IT_Specialist_Cybersecurity-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white)  
