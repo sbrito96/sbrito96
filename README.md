@@ -26,6 +26,7 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 # 📜 Certifications  
 
 ### ✅ Completed:
+
 - ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)   
 
 - ![ISC2 Certified](https://img.shields.io/badge/ISC2_Certified_CC-00A19A?style=for-the-badge&logo=isc2&logoColor=white)   
@@ -34,12 +35,13 @@ Welcome to my GitHub profile! Here you can get to know more about my skills, pro
 
 - ![Cisco Networking](https://img.shields.io/badge/Cisco_Certified_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)   
 
-- ![IT Specialist Cybersecurity](https://img.shields.io/badge/IT_Specialist_Cybersecurity-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white)  
+- ![IT Specialist Cybersecurity](https://img.shields.io/badge/IT_Specialist_Cybersecurity-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white)
+
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)   
 
   [Check all my certificates here](https://www.credly.com/users/samuel-brito.0d47190d)  
 
-### 📌 Currently Pursuing:
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+### 📌 Currently Pursuing: 
 
 - ![Cisco Ethical Hacking](https://img.shields.io/badge/Cisco_Ethical_Hacking-D42029?style=for-the-badge&logo=cisco&logoColor=white) 
 
